@@ -20,10 +20,10 @@ You may need to initialize the database with your data or create your own users 
 Please, be aware to shut down you MonDb instances installed on your physical machine!!!!
 
 ## Build from source
-To build this simple project, at least your need to have JDK 1.8 installed on your machine. The version of Spring Boot is *2.7.7* and Log4j2 is the configured logging framework.
+To build this simple project, at least your need to have JDK 1.8 installed on your machine. The version of Spring Boot is **2.7.7** and **Log4j2** is the configured logging framework.
 
 You don't need to add a dependency for the MongoDB Java Driver, it is already included by **spring-boot-starter-data-mongodb** dependency.
 
-If using an IDE like Eclipse, Netbeans, Intellij or Spring Tool Suite, just clean and build your project. You can also use *Maven* in command line to build your project.
+If using an IDE like **Eclipse, Netbeans, Intellij** or **Spring Tool Suite**, just clean and build your project. You can also use **Maven** in command line to build your project.
 
 Enjoy !!!!
